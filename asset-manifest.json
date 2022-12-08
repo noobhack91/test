@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.372823aa.chunk.css",
+    "main.js": "/test/static/js/main.76843a52.chunk.js",
+    "main.js.map": "/test/static/js/main.76843a52.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.119ea3e0.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.119ea3e0.js.map",
+    "static/js/2.cc3092a0.chunk.js": "/test/static/js/2.cc3092a0.chunk.js",
+    "static/js/2.cc3092a0.chunk.js.map": "/test/static/js/2.cc3092a0.chunk.js.map",
+    "static/js/3.bba1f72f.chunk.js": "/test/static/js/3.bba1f72f.chunk.js",
+    "static/js/3.bba1f72f.chunk.js.map": "/test/static/js/3.bba1f72f.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.372823aa.chunk.css.map": "/test/static/css/main.372823aa.chunk.css.map",
+    "static/js/2.cc3092a0.chunk.js.LICENSE.txt": "/test/static/js/2.cc3092a0.chunk.js.LICENSE.txt",
+    "static/media/icon-dollar.9f9be353.svg": "/test/static/media/icon-dollar.9f9be353.svg",
+    "static/media/icon-person.65bfd204.svg": "/test/static/media/icon-person.65bfd204.svg",
+    "static/media/logo.3cc0528b.svg": "/test/static/media/logo.3cc0528b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.119ea3e0.js",
+    "static/js/2.cc3092a0.chunk.js",
+    "static/css/main.372823aa.chunk.css",
+    "static/js/main.76843a52.chunk.js"
+  ]
+}
